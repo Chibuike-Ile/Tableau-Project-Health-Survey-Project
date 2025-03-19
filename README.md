@@ -11,6 +11,8 @@ The data set was alread in Tableau Packaged Workbook (.twbx) file, though there 
 
 [Microsoft Excel Worksheet](https://github.com/Chibuike-Ile/Tableau-Project-Health-Survey-Project/blob/main/Dataset/GapminderHealth.xlsx)
 
+[Tableau Packaged Workbook](https://github.com/Chibuike-Ile/Tableau-Project-Health-Survey-Project/blob/main/Dataset/Day_2_Task_2_Health_Survey%20class.twbx)
+
 
 **Also I used the **Calculated Fields** to calculate and create Total Cancer Rate using this [Liver Cancer] + [Lung Cancer] + [Stomach Cancer] as seen in the Data Pane below**. 
 
