@@ -9,6 +9,8 @@ As a result, this analysis was limited to the United Kingdom.
 
 The data set was alread in Tableau Packaged Workbook (.twbx) file, though there was a Microsoft Excel Worksheet (.xlsx) file attached to it. To maximize time I open the Tableau Packaged Workbook (.twbx) file. however, I review and ensure that the assigned data types by Tableau is correct. Below are the two files if you wish to access them.
 
+[Microsoft Excel Worksheet](https://github.com/Chibuike-Ile/Tableau-Project-Health-Survey-Project/blob/main/Dataset/GapminderHealth.xlsx)
+
 
 **Also I used the **Calculated Fields** to calculate and create Total Cancer Rate using this [Liver Cancer] + [Lung Cancer] + [Stomach Cancer] as seen in the Data Pane below**. 
 
